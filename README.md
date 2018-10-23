@@ -7,6 +7,7 @@ My vagrant project.
 
 
 1. Git commands:
+
 - git status
 - git add <name of the file> // for adding a singular file from the directory, otherwise needs the whole path
 or
@@ -17,6 +18,7 @@ or
 - gitk // visual representation of git
 
 2. Terminal commands:
+
 - mkdir <anem of the directory>// for creating a directory
 - FOR rm -rf NEVER EVER start with the : / or ~ or . as it fucks up the system for good :) / This command (rm -rf) removes file or directory
 e.g. rm -rf Dir/ is OK
@@ -24,3 +26,10 @@ e.g. rm -rf Dir/ is OK
 - pwd // tells where I am
 - cd .. // goes one directory back
 - ls -la // lists all files in the directory
+
+3. Vagrant commands:
+
+- vagrant up // go to directory to start the vagrant
+- vagrant ssh // connect with the machine, after it is up
+- exit // obvious :p
+
