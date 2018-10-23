@@ -12,6 +12,9 @@ My vagrant project.
 or
 - git add . // for adding everything from the current directory up
 - git reset  // reversed the changes that are staged
+- git commit -m // for making a message what I am commiting
+- git push // making my commit available
+- gitk // visual representation of git
 
 2. Terminal commands:
 - mkdir <anem of the directory>// for creating a directory
